@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "pandey",
+      "mobileno": "9000",
+      "email": "ed@gmail.com",
+      "password": "agsd",
+      "id": 1
+    },
+    {
+      "name": "asdf",
+      "mobileno": "10101",
+      "email": "s@gmail.com",
+      "password": "asdf",
+      "id": 2
+    }
+  ]
+}
